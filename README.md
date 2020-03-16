@@ -1,3 +1,3 @@
 # sandbox
-Messing around
-I'm my master's butler kakaka
+This is my sandbox
+So I can mess around trying new things
